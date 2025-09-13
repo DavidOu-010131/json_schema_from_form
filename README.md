@@ -128,3 +128,9 @@ src/
 ---
 
 如果你觉得这个项目有帮助，请给它一个⭐️！
+
+## Docker部署
+
+本项目支持使用Docker进行容器化部署。所有Docker相关文件已整理到`docker/`目录中，包括构建配置、Compose配置、镜像加速配置和离线构建脚本。
+
+详细的Docker部署指南请查看：[docker/README.md](docker/README.md)
